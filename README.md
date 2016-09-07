@@ -1,5 +1,8 @@
 # spektralcirkus.github.io
 
-[>] Montagem
-[>] Funcionando
-[x] Implementar disquss
+
+
+* 5 textox +- 5mil palavras
+* Implementar disquss
+* Funcionar
+* Montagem
