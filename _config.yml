@@ -27,5 +27,5 @@ markdown: kramdown
 theme: minima
 
 # Disqus
-  disqus:
-   shortname: spektralcirkus
+disqus:
+ shortname: spektralcirkus
